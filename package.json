@@ -1,0 +1,36 @@
+{
+    "name": "vstheme",
+    "displayName": "VS-Theme",
+    "description": "A beautifully designed light theme for Visual Studio Code, perfect for developers seeking a clean and modern look.",
+    "version": "0.0.1",
+    "publisher": "Vijay Ghore",
+    "engines": {
+        "vscode": "^1.54.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "theme",
+        "vs theme",
+        "light theme",
+        "visual studio code theme",
+        "vs code theme",
+        "developer theme",
+        "vijay theme",
+        "blue theme"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/vijayghore/vstheme.git"
+    },
+    "contributes": {
+        "themes": [
+            {
+                "label": "VSTheme",
+                "uiTheme": "vs",
+                "path": "./themes/VsTheMe-TheMe01.json"
+            }
+        ]
+    }
+}
