@@ -22,7 +22,8 @@
 		"minimap.selectionHighlight": "#6ba6f3",
 		"scrollbarSlider.activeBackground": "#5ac8fa",
 		"scrollbarSlider.hoverBackground": "#60bdfc",
-		"scrollbarSlider.background": "#9dcff8"
+		"scrollbarSlider.background": "#9dcff8",
+		"editor.colorDecorators": true
 	},
 	"tokenColors": [
 		{
